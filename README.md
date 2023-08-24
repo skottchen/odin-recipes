@@ -1,1 +1,1 @@
-This project is a basic recipe website built using HTML. The skills that I will demonstrate with this project are HTML and Git.  
+Basic recipe website built using HTML from [The Odin Project](https://www.theodinproject.com/lessons/foundations-recipes). The skills that I will demonstrate with this project are HTML and Git.  
