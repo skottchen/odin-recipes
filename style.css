@@ -1,0 +1,13 @@
+img {
+    height: auto;
+    width: 500px
+}
+
+p,li{
+    font-size: 20px;
+}
+
+ul li a{
+    font-size: 20px
+}
+
