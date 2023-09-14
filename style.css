@@ -11,3 +11,22 @@ ul li a{
     font-size: 20px
 }
 
+/*Styling for index.html page*/
+.card {
+    background: orange;
+    text-align:center;
+    padding: 12px; /*controls how much space is between the content boxes and the card*/
+    width: 450px; /*width of the orange background*/
+    margin: 190px auto; /*180px moves the box down the page and auto centers it horizontally*/
+    /*also centers the content because this css is applied to card*/
+}
+
+.content {
+    /* display: block; */
+    background: lightgray; 
+    padding: 32px; /*increases the space between the link and the border of the boxes*/
+    margin: 20px auto; /*separates the boxes by 20px*/
+    /*auto in this case means the content boxes are centered by taking up the available horizontal space*/
+    font-size: 25px; 
+}
+
