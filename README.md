@@ -1,3 +1,4 @@
-Basic recipe website built using HTML and CSS.
+Project: Recipes
+The Odin Project Foundations Course
 
 
