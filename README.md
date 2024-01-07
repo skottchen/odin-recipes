@@ -1,5 +1,5 @@
-Project: Recipes <br>
-[The Odin Project Foundations Course](https://www.theodinproject.com/paths/foundations/courses/foundations) <br>
+[Project: Recipes](https://www.theodinproject.com/lessons/foundations-recipes) <br>
+The Odin Project Foundations Course <br>
 
 Skills Demonstrated:
 * HTML
